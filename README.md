@@ -30,11 +30,12 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </div>
 
-  
-  
+ 
+ <h2>framework e biblioteca. </h2>
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-  
-  
+
   
   ##
  
