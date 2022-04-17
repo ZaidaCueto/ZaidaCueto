@@ -1,5 +1,13 @@
 <h2 align="left">Oiii<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou a Zaida Cueto, estudante Apaixionada de programação e tecnologia!</h2> 
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/ZaidaCueto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaidaCueto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidaCueto&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
   <h3>Tecnologias:</h3>
 <div style="display: inline_block"><br>
   <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
