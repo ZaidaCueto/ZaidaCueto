@@ -7,7 +7,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaidaCueto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidaCueto&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-
+  
+<div align="center">
+    
+ <p align="left" style="margin-top:200px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZaidaCueto&theme=onedark&row=1&margin-w=5" alt="ZaidaCueto" /></a> </p>
+</div>
   <h3>Tecnologias:</h3>
 <div style="display: inline_block"><br>
   <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
@@ -16,6 +20,9 @@
   <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
   <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
   
+  
+  
+
      
   <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></code>
 <code><img  height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></code>
@@ -28,7 +35,7 @@
   ##
  
 <div> 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZaidaCueto&label=Profile%20views&color=0e75b6&style=flat" alt="IvanTakano" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZaidaCueto&label=Profile%20views&color=0e75b6&style=flat" alt="ZaidaCueto" /> </p>
    <h3>Contate-me:</h3>
 
   <a href="https://www.instagram.com/dev.iniciante2022/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
