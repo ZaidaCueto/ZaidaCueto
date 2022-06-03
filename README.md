@@ -49,7 +49,7 @@
   ![Snake animation](https://github.com/ZaidaCueto/ZaidaCueto/blob/output/github-contribution-grid-snake.svg)
  
 
-    <h4>Tempo total de codificação registrado pelo Wakatime:</h4>
+## Tempo total de codificação registrado pelo Wakatime:
     
   [![wakatime](https://wakatime.com/badge/user/f8b41a21-acd8-4e1e-8a64-593bdf7461eb.svg)](https://wakatime.com/@f8b41a21-acd8-4e1e-8a64-593bdf7461eb)
   
