@@ -1,3 +1,6 @@
+##[![wakatime](https://wakatime.com/badge/user/f8b41a21-acd8-4e1e-8a64-593bdf7461eb.svg)](https://wakatime.com/@f8b41a21-acd8-4e1e-8a64-593bdf7461eb)
+
+
 <h2 👋, eu sou a Zaida Cueto, estudante Apaixionada de programação e tecnologia!</h2> 
 
 ## ⚙️ &nbsp;GitHub Analytics
