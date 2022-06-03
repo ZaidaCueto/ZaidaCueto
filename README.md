@@ -1,4 +1,4 @@
-<h2 align="left">Oiii<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou a Zaida Cueto, estudante Apaixionada de programação e tecnologia!</h2> 
+<h2 👋, eu sou a Zaida Cueto, estudante Apaixionada de programação e tecnologia!</h2> 
 
 ## ⚙️ &nbsp;GitHub Analytics
 
