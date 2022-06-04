@@ -1,21 +1,13 @@
-<h4>Atividade Semanal:</h4>
+##[![wakatime](https://wakatime.com/badge/user/f8b41a21-acd8-4e1e-8a64-593bdf7461eb.svg)](https://wakatime.com/@f8b41a21-acd8-4e1e-8a64-593bdf7461eb)
 
-<p align="center">
-	<a href="https://wakatime.com/@guilhermeDTNA" target="_blank" title="Acessar meu perfil no Wakatime">
+
+<div>	<a href="https://wakatime.com/@guilhermeDTNA](https://wakatime.com/@cueto)" target="_blank" title="Acessar meu perfil no Wakatime">
 		<img
 		align="center"
 		height="280"
-		src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeDTNA&border_radius=5%&v=2"
+		src="https://github-readme-stats.vercel.app/api/wakatime?username=ZaidaCueto&border_radius=5%&v=2"
 		/>
-	</a>
-	
-</p>
-
-<h4>Tempo total de codificação registrado pelo Wakatime:</h4>
-	
-[![wakatime](https://wakatime.com/badge/user/f8b41a21-acd8-4e1e-8a64-593bdf7461eb.svg)](https://wakatime.com/@f8b41a21-acd8-4e1e-8a64-593bdf7461eb)
-
-
+	</a></div>
 
 <h2 👋, eu sou a Zaida Cueto, estudante Apaixionada de programação e tecnologia!</h2> 
 
