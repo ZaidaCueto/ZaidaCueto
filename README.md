@@ -3,7 +3,7 @@
 
 
 
-<h2 👋, eu sou a Zaida Cueto, estudante Apaixionada de programação e tecnologia!</h2> 
+## Olá 👋, eu sou a Zaida Cueto, estudante Apaixionada de programação e tecnologia!
 
 ## ⚙️ &nbsp;GitHub Analytics
 
