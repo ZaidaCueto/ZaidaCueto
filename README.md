@@ -2,15 +2,6 @@
 [![wakatime](https://wakatime.com/badge/user/f8b41a21-acd8-4e1e-8a64-593bdf7461eb.svg)](https://wakatime.com/@f8b41a21-acd8-4e1e-8a64-593bdf7461eb)
 
 
-<div>
-        <a href="https://wakatime.com/@cueto" target="_blank" title="Acessar meu perfil no Wakatime">
-		<img
-		align="center"
-		height="280"
-		src="https://github-readme-stats.vercel.app/api/wakatime?username=ZaidaCueto&border_radius=5%&v=2"
-		/>
-	</a>
-</div>
 
 <h2 👋, eu sou a Zaida Cueto, estudante Apaixionada de programação e tecnologia!</h2> 
 
@@ -62,6 +53,16 @@
  ## 
   ![Snake animation](https://github.com/ZaidaCueto/ZaidaCueto/blob/output/github-contribution-grid-snake.svg)
  
+## Atividade Semanal:
+<div>
+        <a href="https://wakatime.com/@cueto" target="_blank" title="Acessar meu perfil no Wakatime">
+		<img
+		align="center"
+		height="280"
+		src="https://github-readme-stats.vercel.app/api/wakatime?username=@cueto&border_radius=5%&v=2"
+		/>
+	</a>
+</div>
 
 ## Tempo total de codificação registrado pelo Wakatime:
     
