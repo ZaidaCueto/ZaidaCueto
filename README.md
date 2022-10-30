@@ -3,6 +3,8 @@
 
 
 ## Olá 👋, eu sou a Zaida Cueto, estudante Apaixionada de programação e tecnologia!
+O que me motiva  é que sou muito curiosa e tenho uma nesecidade se sempre eaprender coisas novas, 
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
