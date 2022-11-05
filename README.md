@@ -2,7 +2,7 @@
 [![wakatime](https://wakatime.com/badge/user/f8b41a21-acd8-4e1e-8a64-593bdf7461eb.svg)](https://wakatime.com/@f8b41a21-acd8-4e1e-8a64-593bdf7461eb)
 
 
-## Olá 👋, eu sou a Zaida Cueto, estudante apaixonada por programação e tecnologia! O que me motiva  é que sou muito curiosa e gosto de sempre aprender coisas novas.
+## Olá 👋, eu sou a Zaida Cueto,dev front end apaixonada por tecnologia! O que me motiva  é que sou muito curiosa e gosto de sempre aprender coisas novas.
 
 
 
