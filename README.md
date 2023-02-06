@@ -36,6 +36,22 @@
   <code> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" ></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 </div>
+	
+	
+	
+	 
+ <hr>
+ 
+ <div style="align = center" >
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ZaidaCueto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <!-- <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgrafa&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile"/> -->
+  <a href="github.com/hgrafa">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=ZaidaCueto&theme=tokyonight&hide_border=true&fire=FF00E9" />
+  </a>
+  <a href="https://github.com/ZaidaCueto">
+   <img height="287em" src="https://github-readme-activity-graph.cyclic.app/graph?username=ZaidaCueto&theme=github&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Zaida%20Cueto's%20Commits%20Graph" alt="GitHub Commits Graph" /> 
+ </a>
+</div>
   
   ##
  
